@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f93fd23d-f967-4b00-a777-875e071633b8/deploy-status)](https://app.netlify.com/sites/confident-mahavira-7472e1/deploys)
+
 # FB og:image Testing
 This repo is for test FB sharing
 
